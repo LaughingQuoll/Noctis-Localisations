@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DARK_MODE_OFF</key>
+	<string>Темный режим: Выкл.</string>
+	<key>DARK_MODE_ON</key>
+	<string>Темный режим: Вкл.</string>
+</dict>
+</plist>
